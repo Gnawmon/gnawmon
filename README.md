@@ -1,16 +1,19 @@
-### Hi there 👋
+## hello there
 
-<!--
-**Gnawmon/gnawmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i am a 3d artist and a very professional coder that does professional stuff like coding and looking at google
 
-Here are some ideas to get you started:
+i know a little bit of these: c sharp, python, **minecraft redstone** (the most important one)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+heres a thing i made
+
+![wavey](https://pbs.twimg.com/media/FGQxIncWUAA8tl_?format=jpg&name=small)
+
